@@ -20,6 +20,10 @@ nav {
    Padding: 10px;
 }
 
+nav img {
+background-size: max(650px);
+}
+
 .center {
   margin-left: auto;
   margin-right: auto;
